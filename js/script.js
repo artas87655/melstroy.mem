@@ -1,4 +1,5 @@
-﻿// Звуковая панель Mellstroy - С СЕКРЕТНОЙ ЗАГРУЗКОЙ
+console.log('✅ JavaScript загружен!');
+// Звуковая панель Mellstroy - С СЕКРЕТНОЙ ЗАГРУЗКОЙ
 document.addEventListener('DOMContentLoaded', function() {
     console.log('Скрипт запущен!');
     
@@ -326,3 +327,4 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 });
+
